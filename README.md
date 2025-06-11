@@ -1,8 +1,7 @@
 ## Hi there, I'm Jason👋
 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning CI/CD pipelines🤓
-- 👯 I’m looking to collaborate on web projects
+- 👯 I’m looking to collaborate on contribute on open source projects, volunteering, or even a job
 - 📫 How to reach me: yfu2486@gmail.com
   
 [![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,cs,css,cypress,docker,firebase,gcp,git,html,js,kotlin,linux,mongodb,nextjs,nodejs,php,postgres,postman,py,rails,react,ruby,sass,tailwind,ts )](https://skillicons.dev)
