@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on contributing to open source projects, volunteering, or even a job
 - 📫 How to reach me: yfu2486@gmail.com
   
-[![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,cs,css,cypress,docker,firebase,gcp,git,html,js,kotlin,linux,mongodb,nextjs,nodejs,php,postgres,postman,py,rails,react,ruby,sass,tailwind,ts )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,bootstrap,cs,css,cypress,docker,firebase,git,html,js,ts,kotlin,linux,mongodb,nextjs,nodejs,php,postgres,postman,py,ruby,rails,react,sass,tailwind )](https://skillicons.dev)
 
 <!--
 **WetBanana2486/WetBanana2486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
